@@ -1,6 +1,6 @@
 # Noted It
 
-A notes app in the spirit of Google Keep that keeps your notes on your own device. Notes, checklists, drawings, voice notes, reminders, labels, and colours. No account needed.
+A private notes app that keeps your notes on your own device. Notes, checklists, drawings, voice notes, reminders, labels, and colours. No account needed.
 
 ## Run it
 
@@ -8,7 +8,7 @@ It's one HTML file. Open `index.html` in a browser, or serve the folder from any
 
 ## What's inside
 
-- `index.html` – the whole app (no build step, no dependencies)
+- `index.html` + `app.js` – the whole app (no build step, no dependencies)
 - `sw.js` – offline cache
 - `manifest.webmanifest` + icons – install to home screen, "New note" and "New list" shortcuts
 
